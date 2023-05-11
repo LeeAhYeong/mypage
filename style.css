@@ -1,0 +1,68 @@
+.menu {
+  float: left;
+  background-color: #e8e9ed;
+  width: 340px;
+  height: 100vh;
+  position: fixed;
+}
+
+.menu li {
+  padding-bottom: 30px;
+  list-style-type: none;
+}
+
+.menu a {
+  text-decoration: none;
+  color: black;
+}
+
+.menu a:hover {
+  color: rgb(231, 40, 170);
+}
+
+.menu h3 {
+  text-align: center;
+}
+
+#profile-image {
+  margin: auto;
+  display: block;
+  padding-top: 30px;
+  width: 200px;
+  height: 200px;
+  align-items: center;
+}
+
+.aboutme {
+  padding-left: 40%;
+  padding-top: 10%;
+}
+
+.aboutme li {
+  font-size: 18px;
+  padding-top: 30px;
+  list-style-type: none;
+}
+
+.like {
+  padding-left: 40%;
+  padding-top: 10%;
+  margin-bottom: 50px;
+}
+
+.like img {
+  border-radius: 5px;
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.like td {
+  text-align: center;
+  font-weight: solid 1px;
+}
+
+.Framework {
+  padding-left: 40%;
+  padding-top: 10%;
+  margin-bottom: 20px;
+}
